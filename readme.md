@@ -1,4 +1,4 @@
-In this app you can post your message ananymously and see other ananymous posts. You need to signup/register first and then you can write/read posts.You can even signup/signin with `facebook and google`. This app is even connected to database so all the posts are saved to the `mongodb atlas` database.<br>
+In this app you can post your message anonymously and see other anonymous posts. You need to signup/register first and then you can write/read posts.You can even signup/signin with `facebook and google`. This app is even connected to database so all the posts are saved to the `mongodb atlas` database.<br>
 Deployed website <a href="https://limitless-coast-10610.herokuapp.com/">Link</a><br><br>
 
 How to run this app:
